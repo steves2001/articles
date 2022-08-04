@@ -5,4 +5,4 @@ Stephen is a computing professional, with a Masters Degree in Computer Science f
 ## Articles
 Below is an introductory list of articles produced by myself, converted to a markdown repository as and when I get time to to do this.
 
-- [Using Java 8 lambdas to shorten code in Android development](Java8lambdas.md)
+- [Using Java 8 lambdas to shorten code in Android development](Lambdas.md)
